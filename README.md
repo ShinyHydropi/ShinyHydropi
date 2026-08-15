@@ -8,7 +8,7 @@ Currently doing undergraduate research contributing to the Mech language hosted 
 
 ## Projects
 
-- **[Bread Brawl](https://github.com/ShinyHydropi/CSB_Connect_RL_Tutorial)** — (in progress) an RL tutorial with a simple bread-themed RPG environment for a deep Q-learning agent
+- **[Bread Brawl](https://github.com/ShinyHydropi/BreadBrawl)** — an RL tutorial with a simple bread-themed RPG environment for a deep Q-learning agent
 - **[Combat Robotics Reinforcement Learning](https://github.com/ShinyHydropi/Combat-Robotics-Reinforcement-Learning)** — my high school capstone project agents and environment for training an agent to manuever a BattleBot
 
 ---
