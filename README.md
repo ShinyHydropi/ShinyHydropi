@@ -1,6 +1,6 @@
 # Hi, I'm Freddy Hinder 👋
 
-Second-year **CS & Business** student at **Lehigh University**, passionate about games and game theory. I got into RL building agents for BattleBots, and I'm now focused on designing agents that learn in more complex environments.
+Second-year **CS & Business** student at **Lehigh University**, passionate about games and competition. I got into RL building agents for BattleBots, and I'm now focused on designing agents that learn in more complex environments.
 
 Currently doing undergraduate research contributing to the Mech language hosted by Professor Corey Montella.
 
