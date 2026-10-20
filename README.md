@@ -2,8 +2,6 @@
 
 Second-year **CS & Business** student at **Lehigh University**, passionate about games and competition. I got into RL building agents for BattleBots, and I'm now focused on designing agents that learn in more complex environments.
 
-Currently doing undergraduate research contributing to the Mech language hosted by Professor Corey Montella.
-
 ---
 
 ## Projects
